@@ -1,8 +1,8 @@
 1.download data:download.py <br />
 2.parse each png to pickle:parsing.py <br />
 3.combine to big pickle: merge.py <br />
-4.training and testing: run.py <br />
-5.evaluate overlappig: overlap.py <br />
+4.evaluate overlappig: overlap.py <br />
+5.training and testing: run.py <br />
 
 
 Accuracy: 0.5875 when sample size= 50 <br />

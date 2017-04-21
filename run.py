@@ -41,7 +41,7 @@ def train_and_predict(sample_size):
 
 
 objects = []
-with (open("notMNIST.pickle", "rb")) as openfile:
+with (open("notMNIST_sanit.pickle", "rb")) as openfile:
     while True:
         try:
             objects = pickle.load(openfile)
