@@ -3,3 +3,10 @@
 3.combine to big pickle: merge.py <br />
 4.training and testing: run.py <br />
 5.evaluate overlappig: overlap.py <br />
+
+
+Accuracy: 0.5875 when sample size= 50 <br />
+Accuracy: 0.7256 when sample size= 100 <br />
+Accuracy: 0.8304 when sample size= 1000 <br />
+Accuracy: 0.8505 when sample size= 5000 <br />
+Accuracy: 0.8944 when sample size= 200000 <br />
